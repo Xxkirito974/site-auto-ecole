@@ -275,7 +275,7 @@ footer {
     }
 
     a{
-      margin-top: 20%;
+      margin-top: 25%;
     }
 
     .contenu {
@@ -296,6 +296,7 @@ footer {
       display: flex;
       margin-left: 20%;
     }
+    
     .logo img {
       max-width: 30vw;
     }

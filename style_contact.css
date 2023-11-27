@@ -169,7 +169,7 @@ input:checked + .mode:before {
   }
 
   a{
-    margin-top: 20%;
+    margin-top: 25%;
   }
 
   .formulaire {
@@ -181,6 +181,7 @@ input:checked + .mode:before {
     height: 45vh;
     width: 75vw;
   }
+  
   .logo img {
     max-width: 30vw;
   }
